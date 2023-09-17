@@ -60,7 +60,7 @@ body {
 
 
 
-.contact-list {
+/* .contact-list {
     display: flex;
     height: 10px;
     width: 10px;
@@ -76,4 +76,16 @@ body {
 .itio {
     height: 10px;
     width: 10px;
+} */
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover{
+    opacity: 0.7;
 }
